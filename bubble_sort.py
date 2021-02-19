@@ -12,4 +12,4 @@ def bubble_sort(arr):
     return arr
 
 
-print(f"bubble sort {bubble_sort([8, 2, 6, 4, 5])}")
+print(f"bubble sort {bubble_sort([64, 34, 25, 12, 7, 9, 11, 89, 23, 54])}")
